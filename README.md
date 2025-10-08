@@ -8,6 +8,6 @@
 5. Familiar with FPGA.
 
 ## Feel free to contact
-[ Telegram] (https://t.me/Archideutsch_1)
+[Telegram] (https://t.me/Archideutsch_1)
 
 
