@@ -8,7 +8,7 @@
 5. Familiar with FPGA.
 
 ## Feel free to contact
-[👍](tg://emoji?id=5368324170671202286)
-[Telegram] (https://t.me/Archideutsch_1)
+
+[![Telegram Button] (https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-bage&logo=telegram&logoColor=white)](https://t.me/Archideutsch_1)
 
 
