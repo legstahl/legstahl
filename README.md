@@ -6,6 +6,7 @@
 3. Developing protocols of communications. 
 4. Creating apps with Java also possible.
 5. Familiar with FPGA.
+6. Creating a server-client apps.
 
 ## Feel free to contact
 
